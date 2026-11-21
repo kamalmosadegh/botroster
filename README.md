@@ -4,6 +4,9 @@
 
 BotRoster lets you create and organise a personal team of AI assistants, chat with each one, connect your apps, and stay in control: bots propose actions, and nothing runs without your approval.
 
+![BotRoster](botroster-promo-hero.png)
+![Meet the roster](botroster-promo-team.png)
+
 ## Features
 - **Multiple bots, one roster** — create, organise and switch between specialised AI assistants
 - **Chat with each bot** — persistent per-bot conversations (Room database)
