@@ -7,6 +7,9 @@ BotRoster lets you create and organise a personal team of AI assistants, chat wi
 ![BotRoster](botroster-promo-hero.png)
 ![Meet the roster](botroster-promo-team.png)
 
+## Download
+**Latest release: [v2.1](https://github.com/kamalmosadegh/botroster/releases/tag/v2.1)** — download `BotRoster-v2.1.apk` from the release and install it. It installs as an update over v2.0 and keeps your bots and data. To enable chat replies, paste a free Gemini API key from Google AI Studio under **Computer → Gemini API** in the app.
+
 ## Features
 - **Multiple bots, one roster** — create, organise and switch between specialised AI assistants
 - **Chat with each bot** — persistent per-bot conversations (Room database)
